@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 💻 I enjoy coding and working on innovative projects.
 - 📚 I'm constantly learning and expanding my skills.
 - 🌱 Currently, I'm focusing on mastering artificial intelligence development.
-- 
+  
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, JavaScript, TypeScript, Java
 - Web Development: React, Node.js, Express, Django
