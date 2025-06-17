@@ -1,4 +1,4 @@
-# Hi there, I'm Eronion! 👋
+# Hi there, I'm Brandon Willy Viglianisi (aka Eronion) 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to projects. Here's a little more about me:
 
