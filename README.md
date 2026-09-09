@@ -22,13 +22,7 @@ Most of my recent work lives in private and client repositories, so this profile
 only a partial picture. Lately that has meant an automated inspection system for a
 ceramics production line, ERP-integrated order entry for a manufacturer, a mobile app
 for on-device movement analysis, and a couple of tools that make dense documents
-readable — payslips, product passports. A few things that are public:
-
-- **[Eronion.github.io](https://github.com/Eronion/Eronion.github.io)** — personal site
-- **[VisioCoSM](https://github.com/Eronion/VisioCoSM)** — vision-based robotics project (Smart Robotics, UniMoRe)
-- **[Ordered Slicing of Very Large Scale Overlay Networks](https://github.com/Eronion/Ordered_Slicing_of_Very_Large_Scale_Overlay_Networks)** — distributed AI, NetLogo simulation
-- **[Professor Splash](https://github.com/Eronion/Professor_Splash)** — IoT & 3D intelligent systems coursework
-- **[Storage Management System](https://github.com/Eronion/Storage_management_system)** — embedded & real-time systems in C++
+readable — payslips, product passports.
 
 ### Background
 
